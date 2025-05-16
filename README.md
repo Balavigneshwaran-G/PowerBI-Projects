@@ -51,9 +51,8 @@ You can download the `.pbix` files in each project folder and open them using [P
 
 ## 📫 Contact
 If you'd like to connect or have any questions:
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
+- 📧 Email: balavigneshclan2098@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/bala-vigneshwaran-21509abb
 ---
 
 > These projects are part of my self-learning journey as I transition into the data analytics domain. Feedback and suggestions are welcome!
